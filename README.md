@@ -14,3 +14,4 @@
 1. Make sure you have Python installed.
 2. Run the GUI:
    python Gui.py
+Sorry I Cant Provide EXE File YET
