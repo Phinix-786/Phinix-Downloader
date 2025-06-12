@@ -1,6 +1,6 @@
-# Phinix Download
+# Phinix Downloader
 
-**Phinix Download** is a Python-based video downloader app that lets you download videos from **any website** in the highest available quality.
+**Phinix Downloader** is a Python-based video downloader app that lets you download videos from **any website** in the highest available quality.
 
 ## ✨ Features
 - Download videos in **MP4** format with the **highest available quality**
